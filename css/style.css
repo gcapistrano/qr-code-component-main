@@ -13,16 +13,11 @@ body {
     background-color: hsl(212, 45%, 89%);   
 }
 
-.attribution {
-    visibility: hidden;
-}
-
 .container {   
     position: relative; 
     left: 0;  
     top: 0;  
-    margin: 10% auto;
-    
+    margin: 10% auto;    
     width: 360px;
     height: 550px;
     background-color: white;    
@@ -55,9 +50,3 @@ body {
     margin: 20px 10px;
     color: hsl(220, 15%, 55%);     
 }
-
-/* @media (max-width: 880px) {
-    .main {
-        width: 375px;
-    }
-} */
